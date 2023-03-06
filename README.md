@@ -11,4 +11,5 @@
 <p></p>
 <p>Logo após fazer o downloand dos dois aplicativos é necessário fazer uma conta para ter uma licença </p>
 <p>Para poder criar a Target</p>
- <p></p>
+<p></p>
+<img src="/nathyfaculade/Realidade-Aumentada_Unity/raw/main/Img/Target.png" style="max-width: 100%;">
