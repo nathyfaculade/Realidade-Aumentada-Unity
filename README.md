@@ -17,9 +17,30 @@
 <p></p>
 
 # Montando a imagem 
+<p>Na imagem abaixo mostra a ultilização da imagem e como coloca a licença:</p>
+<img src="License.png" align="center"/>
 <p></p>
-<img src="Captura de tela 2023-03-06 202712.png" align="center"/>
-<p></p>
-<p>O script para rotacionar o Cubo</p>
-<span>jscnhjcs</span>
+# O script para rotacionar o Cubo 
+
+´´
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Movimento : MonoBehaviour
+{
+    public Vector3 rotateAmount;
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.Rotate(rotateAmount * Time.deltaTime);
+    }
+}
+´´
+
 
