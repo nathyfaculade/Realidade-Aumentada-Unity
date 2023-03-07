@@ -22,7 +22,7 @@
 <p></p>
 # O script para rotacionar o Cubo 
 
-´´
+```javascrip
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -41,6 +41,6 @@ public class Movimento : MonoBehaviour
         transform.Rotate(rotateAmount * Time.deltaTime);
     }
 }
-´´
+```
 
 
