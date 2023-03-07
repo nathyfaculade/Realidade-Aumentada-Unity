@@ -41,8 +41,15 @@
 
 <p></p>
 <p>Logo após fazer o downloand e configurar o pacote vai ser necessário fazer uma conta no Vulforia para ter uma licença </p>
-<p>Para a criação dessa licença basta entrear no site: </p>
-<p><a href= "https://developer.vuforia.com/vui/auth/login" > Vuforia License Manager <a/></p>
+<p>Para a criação dessa licença basta entrear no site: <a href= "https://developer.vuforia.com/vui/auth/login" > Vuforia License Manager <a/></p>
+<p>Entre com o seu login e senha(ou caso não tenha crie uma conta gratuita)</p>
+<p align="center">
+<img src="login.png" align="center">
+</p>
+<p>No canto superior direito temos os Develop, clique nessa opção, você cairá em uma página como essa:</p>
+
+
+##
 
 <p>Para poder criar a Target</p>
 <p></p>
