@@ -89,4 +89,4 @@ public class Movimento : MonoBehaviour
 # Rotacionar a imagem
 <p>**Para fazer a rotação do cubo é preciso colocar o eixo de rotação**</p>
 <p>X = 50, Y = 50, Z = 50.</p>
-//<img src="rotação.png" align="center"/>
+<img src="rotacao.png" align="center"/>
