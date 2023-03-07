@@ -47,7 +47,17 @@
 <img src="login.png" align="center">
 </p>
 <p>No canto superior direito temos os Develop, clique nessa opção, você cairá em uma página como essa:</p>
-
+<p align="center">
+<img src="segundo login.png" align="center">
+</p>
+<p>Entre no Get Basic, para criar a licença, coloque um nome e depois em "Confirm"</p>
+<p align="center">
+<img src="licenca05.png" align="center">
+</p>
+<p>Clicando novamente na licença criada você terá o Key da sua licença:</p>
+<p align="center">
+<img src="key.png" align="center">
+</p>
 
 ##
 
