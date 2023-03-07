@@ -4,14 +4,19 @@
     <img src="https://github.com/jkredzvr/Unity-Vuforia-Tutorial/blob/master/Screenshots/VRLogo.png" alt="CU VRAR Club logo" title="CU VRAR Club logo" align="center" height="350" />
 </a>
 
-** Hoje vamos criar uma Realidade Aumentada no Unity com o Vulforia:**
+<p> Hoje vamos criar uma Realidade Aumentada no Unity com o Vulforia. </p>
 <p>Essas duas ferramentas possibiltam a criar aplicações avançadas em AR de forma simples:</p>
 <p>Para fazer o download do Unity, basta entrar no link abaixo: </p>
-<p><a href= "https://unity.com/pt/download">Dowloand Unity<a/></p>
+<p><a href= "https://unity.com/pt/download">* Dowloand Unity<a/></p>
 
 <p></p>
 <p>Logo após você tem que fazer o download do Vulforia, que está dispónivel no link abaixo: </p>
-<p> <a href="https://developer.vuforia.com/vui/auth/login?url=%2Fdownloads%2Fsdk%3F_%3D1678117884"> Download Vulforia</a></p>
+<p> <a href="https://developer.vuforia.com/vui/auth/login?url=%2Fdownloads%2Fsdk%3F_%3D1678117884"> * Download Vulforia</a></p>
+
+## Configurando os pacotes
+
+<p>Logo após o download do Unity, você precisará adicionar o pacote "add-vuforia-package-10-13-3", a seguir a demontração de como fazer essa configuração:</p>
+
 
 <p></p>
 <p>Logo após fazer o downloand dos dois aplicativos é necessário fazer uma conta para ter uma licença </p>
