@@ -1,5 +1,10 @@
-# Realidade-Aumentada-Unity
-**Criação da Realidade Aumentada do Unity com o Vulforia:**
+## Olá, Devs!! 👋
+
+<a href="http://www.colorado.edu/studentgroups/vrarclub/">
+    <img src="https://github.com/jkredzvr/Unity-Vuforia-Tutorial/blob/master/Screenshots/VRLogo.png" alt="CU VRAR Club logo" title="CU VRAR Club logo" align="center" height="350" />
+</a>
+
+** Hoje vamos criar uma Realidade Aumentada no Unity com o Vulforia:**
 <p>Essas duas ferramentas possibiltam a criar aplicações avançadas em AR de forma simples:</p>
 <p>Para fazer o download do Unity, basta entrar no link abaixo: </p>
 <p><a href= "https://unity.com/pt/download">Dowloand Unity<a/></p>
