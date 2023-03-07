@@ -21,7 +21,9 @@
 <img src="License.png" align="center"/>
 <p></p>
 
-# O script para rotacionar o Cubo 
+# Scripts 
+
+<p>Rotacionar o Cubo </p>
 
 ```javascrip
 using System.Collections;
@@ -43,7 +45,8 @@ public class Movimento : MonoBehaviour
     }
 }
 ```
-# Movimento com o dado
+
+<p>Movimento com o dado </p>
 ```javascrip
 using System.Collections;
 using System.Collections.Generic;
@@ -86,8 +89,7 @@ public class Movimento : MonoBehaviour
 
 }
 ```
-
-# Movimento com o teclado 
+<p>Movimento com o teclado </p>
 ```javascrip
 using System.Collections;
 using System.Collections.Generic;
