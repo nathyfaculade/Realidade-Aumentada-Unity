@@ -43,8 +43,53 @@ public class Movimento : MonoBehaviour
     }
 }
 ```
+# Movimento com o teclado
+```javascrip
+using System.Collections;
 
+using System.Collections.Generic;
+
+using UnityEngine;
+
+public class Movimento : MonoBehaviour
+
+{
+
+    // Start is called before the first frame update
+
+    Vector3 Vec;
+
+    void Start()
+
+    {
+
+        
+
+    }
+
+
+
+    // Update is called once per frame
+
+    void Update()
+
+    {
+
+        Vec = transform.localPosition;
+
+        Vec.y += Input.GetAxis("Jump") * Time.deltaTime * 5;
+
+        Vec.x += Input.GetAxis("Horizontal") * Time.deltaTime * 5;
+
+        Vec.z += Input.GetAxis("Vertical") * Time.deltaTime * 5;
+
+        transform.localPosition = Vec;
+
+    }
+
+}
+```
 # Rotacionar a imagem
 <p>**Para fazer a rotação do cubo é preciso colocar o eixo de rotação**</p>
 <p>X = 50, Y = 50, Z = 50.</p>
-<img src="rotação.png" align="center"/>
+//<img src="rotação.png" align="center"/>
