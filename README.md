@@ -46,9 +46,7 @@ public class Movimento : MonoBehaviour
 # Movimento com o teclado
 ```javascrip
 using System.Collections;
-
 using System.Collections.Generic;
-
 using UnityEngine;
 
 public class Movimento : MonoBehaviour
@@ -61,13 +59,9 @@ public class Movimento : MonoBehaviour
 
     void Start()
 
-    {
-
-        
+    {    
 
     }
-
-
 
     // Update is called once per frame
 
@@ -86,6 +80,9 @@ public class Movimento : MonoBehaviour
         transform.localPosition = Vec;
 
     }
+
+}
+
 
 }
 ```
