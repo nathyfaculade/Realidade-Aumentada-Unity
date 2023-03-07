@@ -45,4 +45,4 @@ public class Movimento : MonoBehaviour
 ```
 
 # Rotacionar a imagem 
-
+<img src="rotação.png" align="center"/>
