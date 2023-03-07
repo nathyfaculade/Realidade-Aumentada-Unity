@@ -7,22 +7,43 @@
 <p> Hoje vamos criar uma Realidade Aumentada no Unity com o Vulforia. </p>
 <p>Essas duas ferramentas possibiltam a criar aplicações avançadas em AR de forma simples:</p>
 <p>Para fazer o download do Unity, basta entrar no link abaixo: </p>
-<p><a href= "https://unity.com/pt/download">* Dowloand Unity<a/></p>
+<p><a href= "https://unity.com/pt/download">Dowloand Unity<a/></p>
 
 <p></p>
 <p>Logo após você tem que fazer o download do Vulforia, que está dispónivel no link abaixo: </p>
-<p> <a href="https://developer.vuforia.com/vui/auth/login?url=%2Fdownloads%2Fsdk%3F_%3D1678117884"> * Download Vulforia</a></p>
+<p> <a href="https://developer.vuforia.com/vui/auth/login?url=%2Fdownloads%2Fsdk%3F_%3D1678117884"> Download Vulforia</a></p>
 
 ## Configurando os pacotes
 
 <p>Logo após o download do Unity, você precisará adicionar o pacote "add-vuforia-package-10-13-3", a seguir a demontração de como fazer essa configuração:</p>
-<p>1° </p>
+<p> * Primeiro passo abra o seu Unity na Área de Trabalho e em seguida crie um novo projeto no canto direito superior da tela:</p>
 <p align="center">
-<img src="primeira.png" width="460" height="300">
+<img src="criar.png" align="center">
 </p>
 
+<p> * Segundo passo importamos o pacote "add-vuforia-package-10-13-3":</p> 
+<p align="center">
+<img src="primeiro.png" align="center">
+</p>
+<p>Caminho: Assets/Import Package/ Custom Packege..</p>
+
+<p> * Terceiro passo seleciona o pacote</p>
+<p align="center">
+<img src="segunda.png" align="center">
+</p>
+
+<p> * Último passo vai aparecer um pop-up dos pacote de unidade de importação, aceite todos e depois de um "import"</p>
+<p align="center">
+<img src="terceiro.png" align="center">
+</p>
+
+##Licença 
+
 <p></p>
-<p>Logo após fazer o downloand dos dois aplicativos é necessário fazer uma conta para ter uma licença </p>
+<p>Logo após fazer o downloand e configurar o pacote vai ser necessário fazer uma conta no Vulforia para ter uma licença </p>
+<p>Para a criação dessa licença basta entrear no site: </p>
+<p><a href= "https://developer.vuforia.com/vui/auth/login" > Vuforia License Manager <a/></p>
+
 <p>Para poder criar a Target</p>
 <p></p>
 <img src="Target.png" align="center"/>
