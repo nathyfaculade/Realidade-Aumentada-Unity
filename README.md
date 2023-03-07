@@ -16,7 +16,10 @@
 ## Configurando os pacotes
 
 <p>Logo após o download do Unity, você precisará adicionar o pacote "add-vuforia-package-10-13-3", a seguir a demontração de como fazer essa configuração:</p>
-
+<p>1° </p>
+<p align="center">
+<img src="primeira.png" width="460" height="300">
+</p>
 
 <p></p>
 <p>Logo após fazer o downloand dos dois aplicativos é necessário fazer uma conta para ter uma licença </p>
