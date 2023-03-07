@@ -43,7 +43,7 @@ public class Movimento : MonoBehaviour
     }
 }
 ```
-# Movimento com o teclado
+# Movimento com o dado
 ```javascrip
 using System.Collections;
 using System.Collections.Generic;
@@ -86,6 +86,46 @@ public class Movimento : MonoBehaviour
 
 }
 ```
+
+# Movimento com o teclado 
+```javascrip
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Teclado : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+   // Update is called once per frame
+    void Update()
+    {
+        if(Input.GetKey(KeyCode.LeftArrow))
+        {
+            transform.Translate(0.1f, 0f, 0f );
+        }
+        if(Input.GetKey(KeyCode.RightArrow))
+        {
+            transform.Translate(-0.1f, 0f, 0f );
+        }
+        if(Input.GetKey(KeyCode.DownArrow))
+        {
+            transform.Translate(0f, 0f, 0.1f );
+        }
+        if(Input.GetKey(KeyCode.UpArrow))
+        {
+            transform.Translate(0.1f, 0f, -0.1f );
+        }
+
+    }
+}
+```
+
+
 # Rotacionar a imagem
 <p>**Para fazer a rotação do cubo é preciso colocar o eixo de rotação**</p>
 <p>X = 50, Y = 50, Z = 50.</p>
