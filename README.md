@@ -37,7 +37,7 @@
 <img src="terceiro.png" align="center">
 </p>
 
-##Licença 
+#Licença 
 
 <p></p>
 <p>Logo após fazer o downloand e configurar o pacote vai ser necessário fazer uma conta no Vulforia para ter uma licença </p>
